@@ -3,7 +3,7 @@
     <title>WENCY&#x27;S DESIGN</title>
     <link href="https://wencyyang.github.io/feed.xml" rel="self" />
     <link href="https://wencyyang.github.io" />
-    <updated>2019-03-25T01:07:48+08:00</updated>
+    <updated>2019-03-25T05:52:06+08:00</updated>
     <author>
         <name>Wency</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://wencyyang.github.io/jian-24-app-ui-and-ui-kit.html"/>
         <id>https://wencyyang.github.io/jian-24-app-ui-and-ui-kit.html</id>
 
-        <updated>2019-03-23T17:04:47+08:00</updated>
+        <updated>2019-03-25T05:42:21+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -33,9 +33,26 @@
 <figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/23/gallery/8.png" ><img src="https://wencyyang.github.io/media/posts/23/gallery/8-thumbnail.png" alt="" width="2000" height="5052"></a></figure>
 <figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/23/gallery/9.png" ><img src="https://wencyyang.github.io/media/posts/23/gallery/9-thumbnail.png" alt="" width="2000" height="5400"></a></figure>
 <figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/23/gallery/10.png" ><img src="https://wencyyang.github.io/media/posts/23/gallery/10-thumbnail.png" alt="" width="2000" height="11248"></a></figure>
-<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/23/gallery/11.png" ><img src="https://wencyyang.github.io/media/posts/23/gallery/11-thumbnail.png" alt="" width="2000" height="3586"></a></figure>
+<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/23/gallery/11.jpg" ><img src="https://wencyyang.github.io/media/posts/23/gallery/11-thumbnail.jpg" alt="" width="1600" height="5288"></a></figure>
 <figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/23/gallery/12.png" ><img src="https://wencyyang.github.io/media/posts/23/gallery/12-thumbnail.png" alt="" width="2000" height="558"></a></figure>
 </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title> JIAN 24 APP ANIMATION</title>
+        <author>
+            <name>Wency</name>
+        </author>
+        <link href="https://wencyyang.github.io/jian-24-app-animation.html"/>
+        <id>https://wencyyang.github.io/jian-24-app-animation.html</id>
+
+        <updated>2019-03-25T05:50:36+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://wencyyang.github.io/media/posts/24/Feng-Mian.jpg" alt="" />
+                <img class="post__image" src="https://wencyyang.github.io/media/posts/24/jian-24-animation-1.jpg" alt="" width="1600" height="541"><img class="post__image" src="https://wencyyang.github.io/media/posts/24/jian-24-animation-2.gif" alt="" width="1600" height="2281"><img class="post__image" src="https://wencyyang.github.io/media/posts/24/jian-24-animation-3.gif" alt="" width="1600" height="2146"><img class="post__image" src="https://wencyyang.github.io/media/posts/24/jian-24-animation-4.gif" alt="" width="1600" height="2115"><img class="post__image" src="https://wencyyang.github.io/media/posts/24/jian-24-animation-5.gif" alt="" width="1600" height="2156"><img class="post__image" src="https://wencyyang.github.io/media/posts/24/jian-24-animation-6.gif" alt="" width="1600" height="2164"><img class="post__image" src="https://wencyyang.github.io/media/posts/24/jian-24-animation-8.gif" alt="" width="1600" height="2267"><img class="post__image" src="https://wencyyang.github.io/media/posts/24/jian-24-animation-7.gif" alt="" width="1600" height="2104"><img class="post__image" src="https://wencyyang.github.io/media/posts/24/jian-24-animation-8.gif" alt="" width="1600" height="2267"><img class="post__image" src="https://wencyyang.github.io/media/posts/24/jian-24-animation-9.gif" alt="" width="1600" height="2265"><img class="post__image" src="https://wencyyang.github.io/media/posts/24/jian-24-animation-10.gif" alt="" width="1600" height="846">
             ]]>
         </content>
     </entry>
@@ -217,27 +234,6 @@
 <figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/8/gallery/3.jpg" ><img src="https://wencyyang.github.io/media/posts/8/gallery/3-thumbnail.jpg" alt="" width="1600" height="2210"></a></figure>
 <figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/8/gallery/4.jpg" ><img src="https://wencyyang.github.io/media/posts/8/gallery/4-thumbnail.jpg" alt="" width="1600" height="1901"></a></figure>
 <figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/8/gallery/5.jpg" ><img src="https://wencyyang.github.io/media/posts/8/gallery/5-thumbnail.jpg" alt="" width="1600" height="2954"></a></figure>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>toupai app v0.1.0</title>
-        <author>
-            <name>Wency</name>
-        </author>
-        <link href="https://wencyyang.github.io/toupai-app-ui-10.html"/>
-        <id>https://wencyyang.github.io/toupai-app-ui-10.html</id>
-
-        <updated>2019-03-18T17:04:25+08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://wencyyang.github.io/media/posts/16/Feng-Mian.jpg" alt="" />
-                <div class="gallery"   >
-<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/16/gallery/1.jpg" ><img src="https://wencyyang.github.io/media/posts/16/gallery/1-thumbnail.jpg" alt="" width="1600" height="1262"></a></figure>
-<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/16/gallery/2.jpg" ><img src="https://wencyyang.github.io/media/posts/16/gallery/2-thumbnail.jpg" alt="" width="1600" height="5757"></a></figure>
-<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/16/gallery/3.jpg" ><img src="https://wencyyang.github.io/media/posts/16/gallery/3-thumbnail.jpg" alt="" width="1600" height="293"></a></figure>
 </div>
             ]]>
         </content>
