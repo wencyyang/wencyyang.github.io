@@ -3,7 +3,7 @@
     <title>WENCY&#x27;S DESIGN</title>
     <link href="https://wencyyang.github.io/feed.xml" rel="self" />
     <link href="https://wencyyang.github.io" />
-    <updated>2019-04-01T01:10:11+08:00</updated>
+    <updated>2019-04-01T03:00:32+08:00</updated>
     <author>
         <name>Wency</name>
     </author>
@@ -64,18 +64,30 @@
         <link href="https://wencyyang.github.io/wechat-app-and-games.html"/>
         <id>https://wencyyang.github.io/wechat-app-and-games.html</id>
 
-        <updated>2019-03-30T00:27:21+08:00</updated>
-            <summary></summary>
+        <updated>2019-04-01T02:59:33+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://wencyyang.github.io/media/posts/28/Feng-Mian.png" alt="" />
+                     
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://wencyyang.github.io/media/posts/28/Feng-Mian.png" alt="" />
                 <div class="gallery"   >
-<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/28/gallery/1.png" ><img src="https://wencyyang.github.io/media/posts/28/gallery/1.png" alt="" width="1200" height="385"></a></figure>
-<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/28/gallery/2.png" ><img src="https://wencyyang.github.io/media/posts/28/gallery/2.png" alt="" width="1200" height="1346"></a></figure>
-<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/28/gallery/3.png" ><img src="https://wencyyang.github.io/media/posts/28/gallery/3.png" alt="" width="1200" height="1030"></a></figure>
-<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/28/gallery/4.jpg" ><img src="https://wencyyang.github.io/media/posts/28/gallery/4.jpg" alt="" width="1200" height="1343"></a></figure>
+<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/28/gallery/01.png" ><img src="https://wencyyang.github.io/media/posts/28/gallery/01.png" alt="" width="1600" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/28/gallery/02.png" ><img src="https://wencyyang.github.io/media/posts/28/gallery/02.png" alt="" width="1600" height="1794"></a></figure>
+<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/28/gallery/03.png" ><img src="https://wencyyang.github.io/media/posts/28/gallery/03.png" alt="" width="1600" height="1373"></a></figure>
+<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/28/gallery/04.jpg" ><img src="https://wencyyang.github.io/media/posts/28/gallery/04.jpg" alt="" width="1600" height="1791"></a></figure>
 </div>
-<p><img class="post__image" src="https://wencyyang.github.io/media/posts/28/5_1.gif" alt="" width="1600" height="1000"></p>
+<p><img class="post__image" src="https://wencyyang.github.io/media/posts/28/5.gif" alt="" width="1600" height="1000"></p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/28/gallery/06.png" ><img src="https://wencyyang.github.io/media/posts/28/gallery/06.png" alt="" width="1600" height="2629"></a></figure>
+<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/28/gallery/07.png" ><img src="https://wencyyang.github.io/media/posts/28/gallery/07.png" alt="" width="1600" height="1800"></a></figure>
+<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/28/gallery/08.png" ><img src="https://wencyyang.github.io/media/posts/28/gallery/08.png" alt="" width="1600" height="1801"></a></figure>
+<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/28/gallery/09.jpg" ><img src="https://wencyyang.github.io/media/posts/28/gallery/09-thumbnail.jpg" alt="" width="1600" height="1800"></a></figure>
+</div>
+<p><img class="post__image" src="https://wencyyang.github.io/media/posts/28/10.gif" alt="" width="1600" height="883"></p>
             ]]>
         </content>
     </entry>
