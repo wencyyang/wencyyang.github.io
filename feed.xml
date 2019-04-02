@@ -3,7 +3,7 @@
     <title>WENCY&#x27;S DESIGN</title>
     <link href="https://wencyyang.github.io/feed.xml" rel="self" />
     <link href="https://wencyyang.github.io" />
-    <updated>2019-04-02T17:07:11+08:00</updated>
+    <updated>2019-04-02T17:12:54+08:00</updated>
     <author>
         <name>Wency</name>
     </author>
@@ -216,27 +216,6 @@
         </content>
     </entry>
     <entry>
-        <title>illustrator I</title>
-        <author>
-            <name>Wency</name>
-        </author>
-        <link href="https://wencyyang.github.io/illustrator-i.html"/>
-        <id>https://wencyyang.github.io/illustrator-i.html</id>
-
-        <updated>2019-03-30T00:35:57+08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://wencyyang.github.io/media/posts/17/Hai-_-Feng-Mian.jpg" alt="" />
-                <div class="gallery"   >
-<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/17/gallery/1.jpg" ><img src="https://wencyyang.github.io/media/posts/17/gallery/1.jpg" alt="" width="1200" height="1469"></a></figure>
-<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/17/gallery/2.jpg" ><img src="https://wencyyang.github.io/media/posts/17/gallery/2.jpg" alt="" width="1200" height="731"></a></figure>
-<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/17/gallery/3.jpg" ><img src="https://wencyyang.github.io/media/posts/17/gallery/3.jpg" alt="" width="1200" height="864"></a></figure>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Maggie &amp; Doggie</title>
         <author>
             <name>Wency</name>
@@ -253,6 +232,28 @@
 <figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/10/gallery/1.jpg" ><img src="https://wencyyang.github.io/media/posts/10/gallery/1.jpg" alt="" width="1200" height="1410"></a></figure>
 <figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/10/gallery/2.jpg" ><img src="https://wencyyang.github.io/media/posts/10/gallery/2.jpg" alt="" width="1200" height="2160"></a></figure>
 <figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/10/gallery/3.jpg" ><img src="https://wencyyang.github.io/media/posts/10/gallery/3.jpg" alt="" width="1200" height="1410"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>WeDate App</title>
+        <author>
+            <name>Wency</name>
+        </author>
+        <link href="https://wencyyang.github.io/wedate-app-2.html"/>
+        <id>https://wencyyang.github.io/wedate-app-2.html</id>
+
+        <updated>2019-03-30T00:37:17+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://wencyyang.github.io/media/posts/9/Feng-Mian-2.jpg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/9/gallery/1.jpg" ><img src="https://wencyyang.github.io/media/posts/9/gallery/1.jpg" alt="" width="1200" height="1899"></a></figure>
+<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/9/gallery/2.jpg" ><img src="https://wencyyang.github.io/media/posts/9/gallery/2.jpg" alt="" width="1200" height="1886"></a></figure>
+<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/9/gallery/3.jpg" ><img src="https://wencyyang.github.io/media/posts/9/gallery/3.jpg" alt="" width="1200" height="1115"></a></figure>
+<figure class="gallery__item"><a href="https://wencyyang.github.io/media/posts/9/gallery/4.jpg" ><img src="https://wencyyang.github.io/media/posts/9/gallery/4.jpg" alt="" width="1200" height="3314"></a></figure>
 </div>
             ]]>
         </content>
