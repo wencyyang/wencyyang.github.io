@@ -1,0 +1,84 @@
+* {
+    font-family: noto sans,san francisco,pingfang sc,microsoft yahei,arial,sans-serif;
+    -webkit-text-size-adjust: 100%;
+}
+
+h1, h2, h3, h4 {
+    margin: .1rem 0;
+    font-weight: 800;
+    color: #000;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 1.8rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+h4 {
+    font-size: 1.2rem;
+}
+
+html, body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+body > footer {
+    padding: 2rem 1rem 2rem !important;
+    margin-top: auto;
+}
+
+
+@media screen and (min-width:1024px) {
+    .navbar-brand {
+        font-size: 1.25rem;
+        padding: 1rem 2rem;
+        min-height: 2rem;
+    }
+
+}
+
+@media screen and (max-width:1023px) {
+    .navbar-brand {
+        font-size: 1.25rem;
+        padding: 0rem 0rem;
+        min-height: 1.25rem;
+    }
+}
+
+.navbar {
+    border-bottom: 2px solid #f5f5f5;
+}
+
+.navbar-item {
+    padding: 0em .75em;
+    border-radius: .375em;
+}
+
+.navbar-brand:first-child {
+    margin-right: .75em;
+}
+
+h5{
+    font-weight: 700; 
+    color: #000;
+}
+
+h6{
+    font-weight: 300; 
+    color: #000;
+}
+
+h7{
+    font-size: 0.8rem;
+    font-weight: 700; 
+    color: #000;
+}
