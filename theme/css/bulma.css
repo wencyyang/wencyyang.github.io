@@ -689,7 +689,7 @@ fieldset[disabled] .button.is-white.is-inverted.is-outlined {
 
 .button.is-black {
   background-color: #0a0a0a;
-  border-color: transparent;
+  /*border-color: transparent;*/
   color: white;
 }
 
@@ -8239,18 +8239,14 @@ label.panel-block:hover {
   }
 }
 
-.columns {
-  margin-left: -0.75rem;
-  margin-right: -0.75rem;
-  margin-top: -0.75rem;
-}
+
 
 .columns:last-child {
   margin-bottom: -0.75rem;
 }
 
 .columns:not(:last-child) {
-  margin-bottom: calc(1.5rem - 0.75rem);
+  /*margin-bottom: calc(1.5rem - 0.75rem);*/
 }
 
 .columns.is-centered {
@@ -8300,11 +8296,6 @@ label.panel-block:hover {
   }
 }
 
-.columns.is-variable {
-  --columnGap: 0.75rem;
-  margin-left: calc(-1 * var(--columnGap));
-  margin-right: calc(-1 * var(--columnGap));
-}
 
 .columns.is-variable > .column {
   padding-left: var(--columnGap);
@@ -8776,7 +8767,7 @@ label.panel-block:hover {
 }
 
 .columns.is-variable.is-8 {
-  --columnGap: 2rem;
+  --columnGap: 1.5rem;
 }
 
 @media screen and (max-width: 768px) {
