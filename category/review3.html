@@ -19,7 +19,7 @@
       <a class="navbar-item is-size-4 has-text-link" href="../">
         <span style="color: #000; font-size: 32px; line-height: 90px; font-weight: 800; text-decoration: underline;">Portfolio</span>
       </a>
-      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu" style="margin-top: 22px;">
         <span aria-hidden="true"></span>
         <span aria-hidden="true"></span>
         <span aria-hidden="true"></span>
@@ -152,5 +152,21 @@
     </div>
   </footer>
 </body>
+
+<script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', () => {
+    const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+    if ($navbarBurgers.length > 0) {
+      $navbarBurgers.forEach(el => {
+        el.addEventListener('click', () => {
+          const target = el.dataset.target;
+          const $target = document.getElementById(target);
+          el.classList.toggle('is-active');
+          $target.classList.toggle('is-active');
+        });
+      });
+    }
+  });
+</script>
 
 </html>
