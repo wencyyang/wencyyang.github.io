@@ -1,5 +1,11 @@
+@font-face {
+    font-family: 'Montserrat';
+    src:  url('fonts/Montserrat.woff2') format('woff2');
+    font-weight: 1 999;
+  }
+  
 * {
-    font-family: noto sans,san francisco,pingfang sc,microsoft yahei,arial,sans-serif;
+    font-family: Montserrat,noto sans,san francisco,pingfang sc,microsoft yahei,arial,sans-serif !important;
     -webkit-text-size-adjust: 100%;
 }
 
