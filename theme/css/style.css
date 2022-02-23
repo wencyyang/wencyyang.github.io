@@ -147,3 +147,9 @@ a:hover {
 .bd-docs-pagination .bd-pagination-next span {
     margin-right: 1em
 }
+
+@media screen and (min-width: 1216px) {
+    .navbar {
+        padding: 0rem 8rem 0rem 6rem;
+    }
+}
